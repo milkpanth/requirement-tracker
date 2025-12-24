@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/requirement-tracker/static/css/main.67011ccc.css",
+    "main.js": "/requirement-tracker/static/js/main.02deffc0.js",
+    "static/js/453.fd3c7298.chunk.js": "/requirement-tracker/static/js/453.fd3c7298.chunk.js",
+    "index.html": "/requirement-tracker/index.html",
+    "main.67011ccc.css.map": "/requirement-tracker/static/css/main.67011ccc.css.map",
+    "main.02deffc0.js.map": "/requirement-tracker/static/js/main.02deffc0.js.map",
+    "453.fd3c7298.chunk.js.map": "/requirement-tracker/static/js/453.fd3c7298.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67011ccc.css",
+    "static/js/main.02deffc0.js"
+  ]
+}
